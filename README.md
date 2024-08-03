@@ -13,6 +13,10 @@
 
 ### ОТВЕТ:
 
+![](https://github.com/EvgeniyaBalanyuk/host-protection/blob/main/host%20protection%201.1.png)
+
+![](https://github.com/EvgeniyaBalanyuk/host-protection/blob/main/host%20protection%201.2.png)
+
 ---
 
 ### Задание 2
@@ -24,3 +28,7 @@
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
 ### ОТВЕТ:
+
+![](https://github.com/EvgeniyaBalanyuk/host-protection/blob/main/host%20protection%202.1.png)
+
+![](https://github.com/EvgeniyaBalanyuk/host-protection/blob/main/host%20protection%202.2.png)
